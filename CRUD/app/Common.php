@@ -6,7 +6,7 @@
  * replace them with their own. This file is loaded during
  * the bootstrap process and is called during the framework's
  * execution.
- *fvsfvfsb
+ *fvsfvfsbvghvnbvghnbvghvbnvjhvb hjblnjbhghc bnv
  * This can be looked at as a `master helper` file that is
  * loaded early on, and may also contain additional functions
  * that you'd like to use throughout your entire application
