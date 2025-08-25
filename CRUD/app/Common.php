@@ -12,6 +12,7 @@
  * that you'd like to use throughout your entire application
  *brwbsgkjdsnkj
  *kshbfvhfskbvsbvksbkfs
- *jsbvhjdsbfhaebjgvghghvcgvyvuyvuvb v   nvgjvjhvuycjh
+ *ysdfghjio aefnaf afueipfaef aen eaf pjqj  arhi atuol anjnil kumae thefaidn jdcca e
+ * The goal of this file is to allow developers a location where they can overwirte coer procedural functions and replace them with their own
  * @see: https://codeigniter.com/user_guide/extending/common.html
  */
