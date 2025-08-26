@@ -11,8 +11,9 @@
  * loaded early on, and may also contain additional functions
  * that you'd like to use throughout your entire application
  *brwbsgkjdsnkj
- *kshbfvhfskbvsbvksbkfs
+ *kshbfvhfskbvsbvksbkfsqig aeu faofaeouhaeuofg aekugfauulhal
   * The goal of this file is to allow developers a location where they can overwirte coer procedural functions and replace them with their own
+  hrfbsdbfksbdfujesbgwhkdskhav ds fipwehflnf ipefioalfniaef ae aefaeuofaoufg
 
  *ysdfghjio aefnaf afueipfaef aen eaf pjqj  arhi atuol anjnil kumae thefaidn jdcca e
  * The goal of this file is to allow developers a location where they can overwirte coer procedural functions and replace them with their own
