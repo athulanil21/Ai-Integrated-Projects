@@ -1,0 +1,12 @@
+{
+    // Use the project virtual environment's python executable so Pylance inspects the correct site-packages
+    "python.defaultInterpreterPath": "C:\\Users\\athul\\programs\\chatbot\\venv\\Scripts\\python.exe",
+    // Fallback for older versions of the Python extension
+    "python.pythonPath": "C:\\Users\\athul\\programs\\chatbot\\venv\\Scripts\\python.exe",
+    // Help Pylance find packages installed inside the venv
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/venv/Lib/site-packages"
+    ],
+    // Enable automatic search paths (helpful in some setups)
+    "python.analysis.autoSearchPaths": true
+}
